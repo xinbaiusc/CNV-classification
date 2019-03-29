@@ -1,2 +1,2 @@
-# USC_DL_project
+# USC CSCI599 Deep Learning Project
 CNV type prediction based on CTC images
